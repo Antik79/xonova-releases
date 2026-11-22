@@ -1,7 +1,7 @@
 <p align="center">
   <img src="images/xonova-logo.png" alt="XONOVA" width="420">
   &nbsp;&nbsp;
-  <img src="images/mbss-logo.png" alt="Monkey Business Sound System" width="170">
+  <img src="images/mbss-logo.png" alt="Monkey Business Soundsystem" width="170">
 </p>
 
 # XONOVA releases
@@ -9,7 +9,7 @@
 ![XONOVA](images/screenshot.png)
 
 XONOVA is a free polyphonic wavetable synthesizer (VST3, CLAP, LV2 and standalone) by
-**Monkey Business Sound System**: three wavetable oscillators with dual warp stages, two
+**Monkey Business Soundsystem**: three wavetable oscillators with dual warp stages, two
 filters, a modulation oscillator, an FX rack, drag-and-drop modulation, and 200 presets made for
 jungle, drum & bass, dub and ragga.
 
@@ -28,8 +28,8 @@ Installation, the full manual and troubleshooting are in the
 XONOVA is free to use but not open source. Once installed, it checks this repository once a day
 and tells you when a new version is out.
 
-## Support Monkey Business Sound System
+## Support Monkey Business Soundsystem
 
-XONOVA is made with and for **Monkey Business Sound System**, the Belgian jungle, drum & bass and
+XONOVA is made with and for **Monkey Business Soundsystem**, the Belgian jungle, drum & bass and
 breakbeat crew. Check out their events, music and artists at **[mbss.be](https://www.mbss.be)**.
-If XONOVA is useful to you, a donation to support Monkey Business Sound System is very welcome.
+If XONOVA is useful to you, a donation to support Monkey Business Soundsystem is very welcome.
