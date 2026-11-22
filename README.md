@@ -9,7 +9,7 @@
 ![XONOVA](images/screenshot.png)
 
 XONOVA is a free polyphonic wavetable synthesizer (VST3, CLAP, LV2 and standalone) by
-**MBSS (Monkey Business Soundsystem)**: three wavetable oscillators with dual warp stages, two
+**Monkey Business Sound System (MBSS)**: three wavetable oscillators with dual warp stages, two
 filters, a modulation oscillator, an FX rack, drag-and-drop modulation, and 200 presets made for
 jungle, drum & bass, dub and ragga.
 
