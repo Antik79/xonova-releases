@@ -8,7 +8,7 @@
 
 ![XONOVA](images/screenshot.png)
 
-XONOVA is a free polyphonic wavetable synthesizer (VST3, CLAP, LV2 and standalone) by
+XONOVA is a free polyphonic wavetable synthesizer (VST3, CLAP, LV2, Audio Unit and standalone) by
 **Monkey Business Soundsystem**: three wavetable oscillators with dual warp stages, two
 filters, a modulation oscillator, an FX rack, drag-and-drop modulation, and 200 presets made for
 jungle, drum & bass, dub and ragga.
@@ -21,6 +21,11 @@ Get the latest version from the **[Releases page](https://github.com/Antik79/xon
 |---|---|
 | Linux (64-bit) | `XONOVA-<version>-linux-x86_64.tar.gz` |
 | Windows (64-bit) | `XONOVA-<version>-windows-x64.zip` |
+| macOS (Apple Silicon, macOS 11+) | `XONOVA-<version>-macos-arm64.zip` |
+
+On macOS, install with the included `install.sh` (in Terminal: `bash install.sh`). XONOVA isn't signed by
+Apple yet, and the installer lifts macOS's block on downloaded plugins for XONOVA's own files. There is
+no build for Intel Macs.
 
 Installation, the full manual and troubleshooting are in the
 **[XONOVA documentation](https://antik79.github.io/xonova-docs/)**.
